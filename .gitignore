@@ -1,0 +1,25 @@
+# Arduino
+*.elf
+*.map
+*.bin
+build/
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+secrets.h
+config.local.h
