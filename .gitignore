@@ -1,0 +1,25 @@
+# PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+.platformio
+
+# ESP-IDF
+build/
+sdkconfig
+sdkconfig.old
+dependencies.lock
+managed_components/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+secrets.h
+config.local.h
