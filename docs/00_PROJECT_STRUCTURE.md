@@ -19,6 +19,7 @@
 | **07** | [07_LAB_TEST_STAND.md](07_LAB_TEST_STAND.md) | Лабораторный стенд на лампах (без двигателя) | Готово |
 | **08** | [08_PROCUREMENT.md](08_PROCUREMENT.md) | План закупок + ссылки | Готово |
 | **09** | [09_SOFTWARE_IMPLEMENTATION.md](09_SOFTWARE_IMPLEMENTATION.md) | Реализация ПО (выбор платформы + шаблон) | Готово |
+| **10** | [10_WOBBLE_TRAVERSE.md](10_WOBBLE_TRAVERSE.md) | Качающаяся частота (Wobble / Traverse) | Готово |
 
 ---
 
@@ -39,3 +40,4 @@
 | Напряжение питания | 220 В AC |
 | Управление | RS-485 Modbus RTU + сенсорный экран / ESP32 |
 | Датчик двери | Стеклянный геркон + магнит |
+| Укладка витков | Wobble / Traverse (P7 или программный) |
